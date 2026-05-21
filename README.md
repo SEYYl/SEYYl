@@ -73,20 +73,13 @@
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats-phi-seven.vercel.app/api?username=SEYYl&show_icons=true&hide_border=true&hide_title=true&theme=calm&icon_color=7c6aff&text_color=555566&bg_color=f7f7fb" height="195px" alt="SEYYl's github stats" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats-phi-seven.vercel.app/api/top-langs/?username=SEYYl&layout=compact&hide_border=true&theme=calm&text_color=555566&bg_color=f7f7fb" height="195px" alt="SEYYl's top languages" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEYYl&theme=calm" width="830px" alt="profile details" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=SEYYl&theme=calm&hide_border=true&locale=zh_Hans&date_format=Y-m-j&background=f7f7fb&ring=7c6aff&fire=ff6b6b&currStreakLabel=7c6aff" width="820px" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEYYl&theme=calm" height="170px" alt="stats" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEYYl&theme=calm" height="170px" alt="top languages" />
 
 <br/><br/>
 
