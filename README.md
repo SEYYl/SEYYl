@@ -83,6 +83,10 @@
 
 <br/><br/>
 
+<img src="https://streak-stats.demolab.com?user=SEYYl&theme=calm&hide_border=true&locale=zh_Hans&date_format=Y-m-j&background=f7f7fb&ring=7c6aff&fire=ff6b6b&currStreakLabel=7c6aff" width="820px" alt="GitHub Streak" />
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEYYl/SEYYl/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEYYl/SEYYl/output/github-contribution-grid-snake.svg">
