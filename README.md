@@ -76,10 +76,10 @@
 <table border="0">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=SEYYl&show_icons=true&hide_border=true&hide_title=true&theme=calm&icon_color=7c6aff&text_color=555566&bg_color=f7f7fb" height="195px" alt="SEYYl's github stats" />
+      <img src="https://github-readme-stats-phi-seven.vercel.app/api?username=SEYYl&show_icons=true&hide_border=true&hide_title=true&theme=calm&icon_color=7c6aff&text_color=555566&bg_color=f7f7fb" height="195px" alt="SEYYl's github stats" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEYYl&layout=compact&hide_border=true&theme=calm&text_color=555566&bg_color=f7f7fb" height="195px" alt="SEYYl's top languages" />
+      <img src="https://github-readme-stats-phi-seven.vercel.app/api/top-langs/?username=SEYYl&layout=compact&hide_border=true&theme=calm&text_color=555566&bg_color=f7f7fb" height="195px" alt="SEYYl's top languages" />
     </td>
   </tr>
 </table>
