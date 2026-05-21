@@ -59,8 +59,9 @@
 
 |项目                                                                       |描述                                                |技术栈                |状态    |
 |:------------------------------------------------------------------------|:-------------------------------------------------|:------------------|:----:|
-|[**html-to-markdown-web**](https://github.com/SEYYl/html-to-markdown-web)|在线 HTML 转 Markdown 工具，支持实时转换、URL 抓取、暗色主题、Docker 部署|Python · Flask · JS|✅ 原创  |
+|[**Markdownify**](https://github.com/SEYYl/Markdownify)|在线 HTML / URL / 纯文本 → Markdown 工具，实时转换、批量处理、PWA 离线可用|Python · Flask · JS|✅ 原创  |
 |[SEYYl.github.io](https://github.com/SEYYl/SEYYl.github.io)              |个人博客仓库                                            |HTML               |🔄 维护中 |
+|[hexo_blog](https://github.com/SEYYl/hexo_blog)                          |Hexo 技术博客，Solitude 主题，Cloudflare Pages 部署        |Hexo · JavaScript    |🔄 维护中 |
 |[PixPro](https://github.com/SEYYl/PixPro)                                |高效图床，集成图片压缩，后台瀑布流管理                               |PHP                |🔧 Fork|
 |[mao_nav](https://github.com/SEYYl/mao_nav)                              |极简导航站                                             |Vue                |🔧 Fork|
 |[CloudFlare-ImgBed](https://github.com/SEYYl/CloudFlare-ImgBed)          |基于 Cloudflare 的开源文件托管方案                           |JavaScript         |🔧 Fork|
