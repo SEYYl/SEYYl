@@ -73,20 +73,27 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEYYl&show_icons=true&hide_border=true&hide_title=true&theme=calm&icon_color=7c6aff&text_color=555566&bg_color=f7f7fb" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEYYl&layout=compact&hide_border=true&theme=calm&text_color=555566&bg_color=f7f7fb" />
-
-<br/><br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SEYYl&theme=calm&hide_border=true&locale=zh_Hans&date_format=Y-m-j&background=f7f7fb&ring=7c6aff&fire=ff6b6b&currStreakLabel=7c6aff)
-
-</div>
+<table border="0">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=SEYYl&show_icons=true&hide_border=true&hide_title=true&theme=calm&icon_color=7c6aff&text_color=555566&bg_color=f7f7fb" height="195px" alt="SEYYl's github stats" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEYYl&layout=compact&hide_border=true&theme=calm&text_color=555566&bg_color=f7f7fb" height="195px" alt="SEYYl's top languages" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<div align="center">
+<img src="https://streak-stats.demolab.com?user=SEYYl&theme=calm&hide_border=true&locale=zh_Hans&date_format=Y-m-j&background=f7f7fb&ring=7c6aff&fire=ff6b6b&currStreakLabel=7c6aff" width="820px" alt="GitHub Streak" />
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1f2d,50:1a1033,100:0d0d0d&height=100&section=footer)
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEYYl/SEYYl/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEYYl/SEYYl/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/SEYYl/SEYYl/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
