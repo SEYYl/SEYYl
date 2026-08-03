@@ -5,7 +5,7 @@
 <br/>
 
 [![nanyu.xin](https://img.shields.io/badge/🌐%20nanyu.xin-个人主页-1a1033?style=for-the-badge)](https://nanyu.xin)
- 
+&nbsp;
 [![blog.nanyu.xin](https://img.shields.io/badge/✍️%20blog.nanyu.xin-技术博客-0d1f2d?style=for-the-badge)](https://blog.nanyu.xin)
 
 </div>
@@ -42,6 +42,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 
 **工具 · Tools**
 
@@ -57,13 +58,17 @@
 
 <div align="center">
 
-|项目                                                                       |描述                                                |技术栈                |状态    |
-|:------------------------------------------------------------------------|:-------------------------------------------------|:------------------|:----:|
-|[**Markdownify**](https://github.com/SEYYl/Markdownify)|在线 HTML / URL / 纯文本 → Markdown 工具，实时转换、批量处理、PWA 离线可用|Python · Flask · JS|✅ 原创  |
-|[hexo_blog](https://github.com/SEYYl/hexo_blog)                          |Hexo 技术博客，Solitude 主题，Cloudflare Pages 部署        |Hexo · JavaScript    |🔄 维护中 |
-|[PixPro](https://github.com/SEYYl/PixPro)                                |高效图床，集成图片压缩，后台瀑布流管理                               |PHP                |🔧 Fork|
-|[mao_nav](https://github.com/SEYYl/mao_nav)                              |极简导航站                                             |Vue                |🔧 Fork|
-|[CloudFlare-ImgBed](https://github.com/SEYYl/CloudFlare-ImgBed)          |基于 Cloudflare 的开源文件托管方案                           |JavaScript         |🔧 Fork|
+| 项目 | 描述 | 技术栈 | 状态 |
+|:---|:---|:---|:---:|
+| [**Markdownify**](https://github.com/SEYYl/Markdownify) | 在线 HTML / URL / 纯文本 → Markdown 工具，实时转换、批量处理、PWA 离线可用 | Python · Flask · JS | ✅ 原创 |
+| [**murmur**](https://github.com/SEYYl/murmur) | 优雅的 ASMR 音频视频自托管平台，自定义播放器、异步转码、社区功能 | Python · FastAPI · JS | ✅ 原创 |
+| [**nanyu-card**](https://github.com/SEYYl/nanyu-card) | 个人数字名片网站，前后端分离，后台在线编辑，Docker 一键部署 | Vue 3 · Node.js · TS | ✅ 原创 |
+| [**astro-homepage**](https://github.com/SEYYl/astro-homepage) | 简洁的个人主页模板，Astro 5 SSR，支持 Docker / 1Panel 部署 | Astro · Node.js | ✅ 原创 |
+| [hexo_blog](https://github.com/SEYYl/hexo_blog) | Hexo 技术博客，Solitude 主题，Cloudflare Pages 部署 | Hexo · JavaScript | 🔄 维护中 |
+| [PixPro](https://github.com/SEYYl/PixPro) | 高效图床，集成图片压缩，后台瀑布流管理 | PHP | 🔧 Fork |
+| [mao_nav](https://github.com/SEYYl/mao_nav) | 极简导航站 | Vue | 🔧 Fork |
+| [CloudFlare-ImgBed](https://github.com/SEYYl/CloudFlare-ImgBed) | 基于 Cloudflare 的开源文件托管方案 | JavaScript | 🔧 Fork |
+| [boringbay](https://github.com/SEYYl/boringbay) | 无聊湾 | Rust | 🔧 Fork |
 
 </div>
 
