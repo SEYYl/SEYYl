@@ -1,29 +1,31 @@
 <div align="center">
 
-<!-- 简洁标题区 -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C6AFF&center=true&vCenter=true&width=500&lines=%E5%8D%97%E4%B8%8E;Nan+Yu;Backend+%2F+Full-Stack+Explorer" alt="Typing" />
-</h1>
+<!-- 顶部波浪横幅 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1033,50:2d1b69,100:7C6AFF&height=180&section=header&text=南与&fontSize=70&fontColor=f0f0f0&animation=fadeIn&fontAlignY=35&desc=记录生活，也记录时代的细碎&descAlignY=55&descSize=14&descColor=9090aa" />
 
-<p>
-  <samp>记录生活，也记录时代的细碎</samp>
-</p>
+<!-- 打字机动画 -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C6AFF&center=true&vCenter=true&width=500&lines=Backend+Developer;Full+Stack+Explorer;Open+Source+Enthusiast;Always+Learning" alt="Typing" />
 
+<br/>
+
+<!-- 快捷链接 -->
 <p>
-  <a href="https://nanyu.xin"><img src="https://img.shields.io/badge/🌐_nanyu.xin-个人主页-7C6AFF?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="https://blog.nanyu.xin"><img src="https://img.shields.io/badge/✍️_blog-技术博客-FF6B6B?style=flat-square&logo=hexo&logoColor=white" /></a>
-  <a href="https://github.com/SEYYl"><img src="https://img.shields.io/badge/GitHub-SEYYl-44CC11?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://nanyu.xin"><img src="https://img.shields.io/badge/🌐_个人主页-nanyu.xin-7C6AFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://blog.nanyu.xin"><img src="https://img.shields.io/badge/✍️_技术博客-blog.nanyu.xin-FF6B6B?style=for-the-badge&logo=hexo&logoColor=white" /></a>
+  <a href="https://github.com/SEYYl"><img src="https://img.shields.io/badge/GitHub-SEYYl-44CC11?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 </div>
 
 <br/>
 
+---
+
 ## 👤 关于我
 
 <table>
 <tr>
-<td width="55%">
+<td width="60%">
 
 ```yaml
 🪪 昵称    : 南与 (Nan Yu)
@@ -35,16 +37,28 @@
 ```
 
 </td>
-<td width="45%">
+<td width="40%">
 
-<!-- 使用国内可访问的 Stats 镜像 -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SEYYl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AFF&icon_color=FF6B6B&text_color=c9d1d9&hide_title=true&include_all_commits=true&count_private=true" width="100%" />
+<div align="center">
+
+<!-- 用 shields 展示实时数据，国内可加载 -->
+<img src="https://img.shields.io/github/followers/SEYYl?color=7C6AFF&label=👥%20关注者&style=flat-square&logo=github" />
+<br/><br/>
+<img src="https://img.shields.io/github/stars/SEYYl/Markdownify?color=FF6B6B&label=⭐%20Markdownify&style=flat-square&logo=github" />
+<br/><br/>
+<img src="https://img.shields.io/github/stars/SEYYl/murmur?color=FF6B6B&label=⭐%20murmur&style=flat-square&logo=github" />
+<br/><br/>
+<img src="https://img.shields.io/github/stars/SEYYl/nanyu-card?color=FF6B6B&label=⭐%20nanyu-card&style=flat-square&logo=github" />
+
+</div>
 
 </td>
 </tr>
 </table>
 
 <br/>
+
+---
 
 ## 🛠️ 技术栈
 
@@ -82,6 +96,8 @@
 
 <br/>
 
+---
+
 ## 🚀 项目
 
 <div align="center">
@@ -102,19 +118,30 @@
 
 <br/>
 
-## 📊 GitHub 统计
+---
+
+## 📊 数据
 
 <div align="center">
 
-<!-- Stats 使用国内可访问的镜像 -->
-<a href="https://github.com/SEYYl">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SEYYl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AFF&icon_color=FF6B6B&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEYYl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AFF&text_color=c9d1d9&langs_count=8" />
-</a>
+<!-- shields.io 实时数据，国内可加载 -->
+<img src="https://img.shields.io/github/followers/SEYYl?color=7C6AFF&label=👥%20关注者&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/SEYYl?color=FF6B6B&label=⭐%20总获星&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/repos/SEYYl?color=44CC11&label=📦%20公开仓库&style=for-the-badge&logo=github" />
+
+<br/><br/>
+
+<!-- 主要项目星星数 -->
+<img src="https://img.shields.io/github/stars/SEYYl/Markdownify?color=7C6AFF&label=Markdownify&style=flat-square&logo=github" />
+<img src="https://img.shields.io/github/stars/SEYYl/murmur?color=7C6AFF&label=murmur&style=flat-square&logo=github" />
+<img src="https://img.shields.io/github/stars/SEYYl/nanyu-card?color=7C6AFF&label=nanyu-card&style=flat-square&logo=github" />
+<img src="https://img.shields.io/github/stars/SEYYl/astro-homepage?color=7C6AFF&label=astro-homepage&style=flat-square&logo=github" />
 
 </div>
 
 <br/>
+
+---
 
 ## 📬 联系我
 
@@ -125,3 +152,8 @@
 [![Blog](https://img.shields.io/badge/Blog-blog.nanyu.xin-44CC11?style=for-the-badge&logo=hexo&logoColor=white&labelColor=0d1117)](https://blog.nanyu.xin)
 
 </div>
+
+<br/>
+
+<!-- 底部波浪横幅 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C6AFF,50:2d1b69,100:1a1033&height=120&section=footer" />
