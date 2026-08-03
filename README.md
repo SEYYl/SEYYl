@@ -1,22 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,18,24&height=200&section=header&text=南与&fontSize=70&fontAlignY=38&desc=记录生活，也记录时代的细碎&descSize=18&descAlignY=58&animation=fadeIn" />
+<!-- 简洁标题区 -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C6AFF&center=true&vCenter=true&width=500&lines=%E5%8D%97%E4%B8%8E;Nan+Yu;Backend+%2F+Full-Stack+Explorer" alt="Typing" />
+</h1>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=7C6AFF&center=true&vCenter=true&width=500&lines=Backend+%2F+Full-Stack+Explorer;Learning+CS+Fundamentals+%26+Tech+Stacks;Building+Tools+That+Matter" alt="Typing SVG" />
-</a>
+<p>
+  <samp>记录生活，也记录时代的细碎</samp>
+</p>
 
-<br/>
-
-[![nanyu.xin](https://img.shields.io/badge/🌐_nanyu.xin-个人主页-7C6AFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1033)](https://nanyu.xin)
-[![blog](https://img.shields.io/badge/✍️_blog-技术博客-FF6B6B?style=for-the-badge&logo=hexo&logoColor=white&labelColor=0d1f2d)](https://blog.nanyu.xin)
-[![GitHub](https://img.shields.io/badge/GitHub-SEYYl-44CC11?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/SEYYl)
+<p>
+  <a href="https://nanyu.xin"><img src="https://img.shields.io/badge/🌐_nanyu.xin-个人主页-7C6AFF?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://blog.nanyu.xin"><img src="https://img.shields.io/badge/✍️_blog-技术博客-FF6B6B?style=flat-square&logo=hexo&logoColor=white" /></a>
+  <a href="https://github.com/SEYYl"><img src="https://img.shields.io/badge/GitHub-SEYYl-44CC11?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
 </div>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 👤 关于我
 
@@ -36,7 +37,8 @@
 </td>
 <td width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEYYl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AFF&icon_color=FF6B6B&text_color=c9d1d9&hide_title=true&include_all_commits=true&count_private=true" width="100%" />
+<!-- 使用国内可访问的 Stats 镜像 -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SEYYl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AFF&icon_color=FF6B6B&text_color=c9d1d9&hide_title=true&include_all_commits=true&count_private=true" width="100%" />
 
 </td>
 </tr>
@@ -44,45 +46,41 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 🛠️ 技术栈
 
 <div align="center">
 
 ### 🔙 后端 · Backend
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🎨 前端 · Frontend
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 
 ### 🔧 工具 · Tools
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 项目
 
@@ -104,51 +102,19 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 GitHub 奖杯
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SEYYl&theme=algolia&no-frame=true&column=7&margin-w=6&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
 ## 📊 GitHub 统计
 
 <div align="center">
 
+<!-- Stats 使用国内可访问的镜像 -->
 <a href="https://github.com/SEYYl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEYYl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AFF&icon_color=FF6B6B&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEYYl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AFF&text_color=c9d1d9&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SEYYl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AFF&icon_color=FF6B6B&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEYYl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AFF&text_color=c9d1d9&langs_count=8" />
 </a>
-
-<br/>
-<br/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEYYl&theme=tokyonight&hide_border=true&background=0d1117&ring=7C6AFF&fire=FF6B6B&currStreakLabel=7C6AFF&sideLabels=c9d1d9&dates=8b949e&locale=zh_Hans" alt="GitHub Streak" />
-
-<br/>
-<br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEYYl&theme=tokyo-night&bg_color=0d1117&color=7C6AFF&line=FF6B6B&point=c9d1d9&hide_border=true&area=true" alt="Activity Graph" />
-
-<br/>
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEYYl/SEYYl/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEYYl/SEYYl/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/SEYYl/SEYYl/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📬 联系我
 
@@ -157,9 +123,5 @@
 [![Email](https://img.shields.io/badge/Email-i@nanyu.xin-7C6AFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:i@nanyu.xin)
 [![Website](https://img.shields.io/badge/Website-nanyu.xin-FF6B6B?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117)](https://nanyu.xin)
 [![Blog](https://img.shields.io/badge/Blog-blog.nanyu.xin-44CC11?style=for-the-badge&logo=hexo&logoColor=white&labelColor=0d1117)](https://blog.nanyu.xin)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,18,24&height=100&section=footer&animation=fadeIn" />
 
 </div>
