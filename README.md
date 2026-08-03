@@ -4,9 +4,16 @@
 
 <br/>
 
+<!-- 打字机动画 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=7C6AFF&center=true&vCenter=true&random=false&width=440&lines=%E5%90%8E%E7%AB%AF+%2F+%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85;Python+%C2%B7+Go+%C2%B7+Vue+%C2%B7+Astro;%E6%AD%A3%E5%9C%A8%E6%8E%A2%E7%B4%A2%E6%8A%80%E6%9C%AF%E7%9A%84%E8%BE%B9%E7%95%8C;%E8%AE%B0%E5%BD%95%E7%94%9F%E6%B4%BB%EF%BC%8C%E4%B9%9F%E8%AE%B0%E5%BD%95%E6%97%B6%E4%BB%A3%E7%9A%84%E7%BB%86%E7%A2%8E)](https://git.io/typing-svg)
+
+<br/>
+
 [![nanyu.xin](https://img.shields.io/badge/🌐%20nanyu.xin-个人主页-1a1033?style=for-the-badge)](https://nanyu.xin)
 &nbsp;
 [![blog.nanyu.xin](https://img.shields.io/badge/✍️%20blog.nanyu.xin-技术博客-0d1f2d?style=for-the-badge)](https://blog.nanyu.xin)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/💻%20GitHub-@SEYYl-181717?style=for-the-badge&logo=github)](https://github.com/SEYYl)
 
 </div>
 
@@ -18,6 +25,7 @@
 坐标  : 随机漂泊中
 方向  : 后端 / 全栈探索
 状态  : 正在学习计算机基础 & 各类技术栈
+邮箱  : i@nanyu.xin
 ```
 
 <br/>
@@ -34,6 +42,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 **前端 · Frontend**
 
@@ -49,6 +58,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
@@ -74,6 +85,16 @@
 
 <br/>
 
+## 🏆 GitHub 勋章
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEYYl&theme=calm&row=2&column=4&margin-w=8&margin-h=10" alt="GitHub Trophies" />
+
+</div>
+
+<br/>
+
 ## 📊 GitHub 数据
 
 <div align="center">
@@ -92,10 +113,40 @@
 
 <br/><br/>
 
+<!-- 活动图 -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEYYl&theme=calm&hide_border=true&area=true&color=7c6aff&line=7c6aff&point=ff6b6b" width="830px" alt="Activity Graph" />
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEYYl/SEYYl/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEYYl/SEYYl/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/SEYYl/SEYYl/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
+
+<br/>
+
+## 📬 联系我
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧%20Email-i@nanyu.xin-7c6aff?style=for-the-badge)](mailto:i@nanyu.xin)
+&nbsp;
+[![Blog](https://img.shields.io/badge/✍️%20Blog-blog.nanyu.xin-0d1f2d?style=for-the-badge)](https://blog.nanyu.xin)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/💻%20GitHub-@SEYYl-181717?style=for-the-badge&logo=github)](https://github.com/SEYYl)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<!-- 访客计数器 -->
+<img src="https://komarev.com/ghpvc/?username=SEYYl&style=for-the-badge&color=7c6aff&label=访客" alt="Visitor Count" />
 
 </div>
