@@ -83,9 +83,9 @@
 
 <div align="center">
 
-<!-- 自建统计卡片 · jsDelivr CDN 加速 · 每 6 小时自动更新 -->
-<img src="https://cdn.jsdelivr.net/gh/SEYYl/SEYYl@output/stats-card.svg" width="49%" />
-<img src="https://cdn.jsdelivr.net/gh/SEYYl/SEYYl@output/top-langs.svg" width="49%" />
+<!-- 自建统计卡片 · 仓库内托管（不经过 camo 代理）· 每 6 小时自动更新 -->
+<img src=".github/stats/stats-card.svg" width="49%" />
+<img src=".github/stats/top-langs.svg" width="49%" />
 
 <br/><br/>
 
@@ -104,8 +104,8 @@
 
 <div align="center">
 
-<!-- 自建里程碑卡片 · jsDelivr CDN 加速 · 随数据增长自动前进 -->
-<img src="https://cdn.jsdelivr.net/gh/SEYYl/SEYYl@output/achievements.svg" width="90%" />
+<!-- 自建里程碑卡片 · 仓库内托管（不经过 camo 代理）· 随数据增长自动前进 -->
+<img src=".github/stats/achievements.svg" width="90%" />
 
 </div>
 
@@ -187,9 +187,3 @@
 
 <!-- 底部波浪横幅 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C6AFF,50:2d1b69,100:1a1033&height=120&section=footer" />
-
-<!-- 渲染行为测试：相对路径 -->
-<img src=".github/stats/stats-card.svg" width="49%" />
-
-<!-- 渲染行为测试：github.com/raw 绝对路径 -->
-<img src="https://github.com/SEYYl/SEYYl/raw/main/.github/stats/stats-card.svg" width="49%" />

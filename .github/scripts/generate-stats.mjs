@@ -143,11 +143,11 @@ function achievementsCard(d) {
 // ---------- 主流程 ----------
 const { mkdir, writeFile } = await import('node:fs/promises');
 const d = await collect();
-await mkdir('dist', { recursive: true });
+await mkdir('.github/stats', { recursive: true });
 await Promise.all([
-  writeFile('dist/stats-card.svg', statsCard(d), 'utf8'),
-  writeFile('dist/top-langs.svg', topLangsCard(d), 'utf8'),
-  writeFile('dist/achievements.svg', achievementsCard(d), 'utf8'),
+  writeFile('.github/stats/stats-card.svg', statsCard(d), 'utf8'),
+  writeFile('.github/stats/top-langs.svg', topLangsCard(d), 'utf8'),
+  writeFile('.github/stats/achievements.svg', achievementsCard(d), 'utf8'),
 ]);
 console.log(`✅ 生成完成: 关注者=${d.followers} 星星=${d.stars} 仓库=${d.repos} 语言=${d.langCount} 原创=${d.originals}`);
 console.log(`   语言: ${d.langList.map((l) => `${l.name} ${(l.pct * 100).toFixed(0)}%`).join(', ')}`);
