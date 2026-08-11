@@ -187,3 +187,9 @@
 
 <!-- 底部波浪横幅 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C6AFF,50:2d1b69,100:1a1033&height=120&section=footer" />
+
+<!-- 渲染行为测试：相对路径 -->
+<img src=".github/stats/stats-card.svg" width="49%" />
+
+<!-- 渲染行为测试：github.com/raw 绝对路径 -->
+<img src="https://github.com/SEYYl/SEYYl/raw/main/.github/stats/stats-card.svg" width="49%" />

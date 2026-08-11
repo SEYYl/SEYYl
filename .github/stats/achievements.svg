@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="170" viewBox="0 0 440 170">
+<rect x="0.5" y="0.5" width="439" height="169" rx="14" fill="#0d1117" stroke="#21262d"/>
+<text x="24" y="34" font-family="'Segoe UI',sans-serif" font-size="16" font-weight="700" fill="#7C6AFF">🏆 里程碑</text>
+<text x="416" y="32" font-family="'Segoe UI',sans-serif" font-size="11" fill="#8b949e" text-anchor="end">持续前行中</text><text x="24" y="62" font-family="'Segoe UI',sans-serif" font-size="12.5" fill="#8b949e">⭐ 获得星星</text>
+<rect x="118" y="52" width="280" height="13" rx="6.5" fill="#161b22"/>
+<rect x="118" y="52" width="12.8" height="13" rx="6.5" fill="#FF6B6B"/>
+<text x="416" y="62" font-family="'Segoe UI',sans-serif" font-size="12.5" font-weight="600" fill="#f0f6fc" text-anchor="end">0 / 100</text><text x="24" y="98" font-family="'Segoe UI',sans-serif" font-size="12.5" fill="#8b949e">👥 粉丝数量</text>
+<rect x="118" y="88" width="280" height="13" rx="6.5" fill="#161b22"/>
+<rect x="118" y="88" width="12.8" height="13" rx="6.5" fill="#7C6AFF"/>
+<text x="416" y="98" font-family="'Segoe UI',sans-serif" font-size="12.5" font-weight="600" fill="#f0f6fc" text-anchor="end">0 / 50</text><text x="24" y="134" font-family="'Segoe UI',sans-serif" font-size="12.5" fill="#8b949e">🚀 原创项目</text>
+<rect x="118" y="124" width="280" height="13" rx="6.5" fill="#161b22"/>
+<rect x="118" y="124" width="192.0" height="13" rx="6.5" fill="#44CC11"/>
+<text x="416" y="134" font-family="'Segoe UI',sans-serif" font-size="12.5" font-weight="600" fill="#f0f6fc" text-anchor="end">6 / 10</text>
+</svg>

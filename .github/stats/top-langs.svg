@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="270" viewBox="0 0 440 270">
+<rect x="0.5" y="0.5" width="439" height="269" rx="14" fill="#0d1117" stroke="#21262d"/>
+<text x="24" y="34" font-family="'Segoe UI',sans-serif" font-size="16" font-weight="700" fill="#7C6AFF">🗂️ 常用语言</text>
+<text x="416" y="32" font-family="'Segoe UI',sans-serif" font-size="11" fill="#8b949e" text-anchor="end">按仓库代码量</text><text x="24" y="58" font-family="'Segoe UI',sans-serif" font-size="13" fill="#f0f6fc">HTML</text>
+<rect x="110" y="47" width="292" height="12" rx="6" fill="#161b22"/>
+<rect x="110" y="47" width="263.6" height="12" rx="6" fill="#E34C26"/>
+<text x="418" y="58" font-family="'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#8b949e" text-anchor="end">90.3%</text><text x="24" y="88" font-family="'Segoe UI',sans-serif" font-size="13" fill="#f0f6fc">CSS</text>
+<rect x="110" y="77" width="292" height="12" rx="6" fill="#161b22"/>
+<rect x="110" y="77" width="12.6" height="12" rx="6" fill="#563D7C"/>
+<text x="418" y="88" font-family="'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#8b949e" text-anchor="end">4.3%</text><text x="24" y="118" font-family="'Segoe UI',sans-serif" font-size="13" fill="#f0f6fc">JavaScript</text>
+<rect x="110" y="107" width="292" height="12" rx="6" fill="#161b22"/>
+<rect x="110" y="107" width="11.7" height="12" rx="6" fill="#F1E05A"/>
+<text x="418" y="118" font-family="'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#8b949e" text-anchor="end">2.7%</text><text x="24" y="148" font-family="'Segoe UI',sans-serif" font-size="13" fill="#f0f6fc">Python</text>
+<rect x="110" y="137" width="292" height="12" rx="6" fill="#161b22"/>
+<rect x="110" y="137" width="11.7" height="12" rx="6" fill="#3776AB"/>
+<text x="418" y="148" font-family="'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#8b949e" text-anchor="end">1.5%</text><text x="24" y="178" font-family="'Segoe UI',sans-serif" font-size="13" fill="#f0f6fc">Astro</text>
+<rect x="110" y="167" width="292" height="12" rx="6" fill="#161b22"/>
+<rect x="110" y="167" width="11.7" height="12" rx="6" fill="#BC52EE"/>
+<text x="418" y="178" font-family="'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#8b949e" text-anchor="end">0.7%</text><text x="24" y="208" font-family="'Segoe UI',sans-serif" font-size="13" fill="#f0f6fc">TypeScript</text>
+<rect x="110" y="197" width="292" height="12" rx="6" fill="#161b22"/>
+<rect x="110" y="197" width="11.7" height="12" rx="6" fill="#3178C6"/>
+<text x="418" y="208" font-family="'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#8b949e" text-anchor="end">0.3%</text>
+</svg>
