@@ -12,8 +12,8 @@
 
 <!-- 快捷链接 -->
 <p>
-  <a href="https://nanyu.xin"><img src="https://img.shields.io/badge/🌐_个人主页-nanyu.xin-7C6AFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://blog.nanyu.xin"><img src="https://img.shields.io/badge/✍️_技术博客-blog.nanyu.xin-FF6B6B?style=for-the-badge&logo=hexo&logoColor=white" /></a>
+  <a href="https://nanyu.xin"><img src="https://img.shields.io/badge/%F0%9F%8C%90_%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-nanyu.xin-7C6AFF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://blog.nanyu.xin"><img src="https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F_%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2-blog.nanyu.xin-FF6B6B?style=for-the-badge&logo=hexo&logoColor=white" /></a>
   <a href="https://github.com/SEYYl"><img src="https://img.shields.io/badge/GitHub-SEYYl-44CC11?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -44,14 +44,14 @@
 <div align="center">
 
 <!-- 访客计数器 · 国内可加载 -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=SEYYl.SEYYl&left_color=0d1117&right_color=7C6AFF&left_text=👀%20访客" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SEYYl.SEYYl&left_color=0d1117&right_color=7C6AFF&left_text=%F0%9F%91%80%20%E8%AE%BF%E5%AE%A2" />
 <br/><br/>
 <!-- shields.io 实时数据 -->
-<img src="https://img.shields.io/github/followers/SEYYl?color=7C6AFF&label=👥%20关注者&style=flat-square&logo=github" />
+<img src="https://img.shields.io/github/followers/SEYYl?color=7C6AFF&label=%F0%9F%91%A5%20%E5%85%B3%E6%B3%A8%E8%80%85&style=flat-square&logo=github" />
 <br/><br/>
-<img src="https://img.shields.io/github/stars/SEYYl?color=FF6B6B&label=⭐%20总获星&style=flat-square&logo=github" />
+<img src="https://img.shields.io/github/stars/SEYYl?color=FF6B6B&label=%E2%AD%90%20%E6%80%BB%E8%8E%B7%E6%98%9F&style=flat-square&logo=github" />
 <br/><br/>
-<img src="https://img.shields.io/github/repos/SEYYl?color=44CC11&label=📦%20公开仓库&style=flat-square&logo=github" />
+<img src="https://img.shields.io/github/repos/SEYYl?color=44CC11&label=%F0%9F%93%A6%20%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93&style=flat-square&logo=github" />
 
 </div>
 
@@ -83,16 +83,16 @@
 
 <div align="center">
 
-<!-- 统计卡片 · 与顶部横幅同域，若无法加载可删除本节 -->
-<img src="https://github-readme-stats.vercel.app/api?username=SEYYl&show_icons=true&title_color=7C6AFF&icon_color=FF6B6B&text_color=c9d1d9&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEYYl&layout=compact&title_color=7C6AFF&text_color=c9d1d9&bg_color=0d1117&hide_border=true&card_width=420" width="49%" />
+<!-- 自建统计卡片 · jsDelivr CDN 加速 · 每 6 小时自动更新 -->
+<img src="https://cdn.jsdelivr.net/gh/SEYYl/SEYYl@output/stats-card.svg" width="49%" />
+<img src="https://cdn.jsdelivr.net/gh/SEYYl/SEYYl@output/top-langs.svg" width="49%" />
 
 <br/><br/>
 
 <!-- shields.io 实时数据，国内可加载 -->
-<img src="https://img.shields.io/github/followers/SEYYl?color=7C6AFF&label=👥%20关注者&style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/stars/SEYYl?color=FF6B6B&label=⭐%20总获星&style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/repos/SEYYl?color=44CC11&label=📦%20公开仓库&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/followers/SEYYl?color=7C6AFF&label=%F0%9F%91%A5%20%E5%85%B3%E6%B3%A8%E8%80%85&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/SEYYl?color=FF6B6B&label=%E2%AD%90%20%E6%80%BB%E8%8E%B7%E6%98%9F&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/repos/SEYYl?color=44CC11&label=%F0%9F%93%A6%20%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93&style=for-the-badge&logo=github" />
 
 </div>
 
@@ -100,11 +100,12 @@
 
 ---
 
-## 🏆 奖杯墙
+## 🏆 里程碑
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEYYl&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" />
+<!-- 自建里程碑卡片 · jsDelivr CDN 加速 · 随数据增长自动前进 -->
+<img src="https://cdn.jsdelivr.net/gh/SEYYl/SEYYl@output/achievements.svg" width="90%" />
 
 </div>
 
