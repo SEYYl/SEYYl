@@ -43,8 +43,8 @@
 
 <div align="center">
 
-<!-- 访客计数器 · 国内可加载 -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=SEYYl.SEYYl&left_color=0d1117&right_color=7C6AFF&left_text=%F0%9F%91%80%20%E8%AE%BF%E5%AE%A2" />
+<!-- 访客计数器 · 紫色渐变呼应顶部横幅（laobi 颜色需 %23 前缀） -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SEYYl.SEYYl&left_color=%232d1b69&right_color=%237C6AFF&left_text=%F0%9F%91%80%20%E8%AE%BF%E5%AE%A2" />
 <br/><br/>
 <!-- shields.io 实时数据 -->
 <img src="https://img.shields.io/github/followers/SEYYl?color=7C6AFF&label=%F0%9F%91%A5%20%E5%85%B3%E6%B3%A8%E8%80%85&style=flat-square&logo=github" />
