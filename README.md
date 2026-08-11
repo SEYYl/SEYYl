@@ -3,8 +3,10 @@
 <!-- 顶部波浪横幅 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1033,50:2d1b69,100:7C6AFF&height=180&section=header&text=南与&fontSize=70&fontColor=f0f0f0&animation=fadeIn&fontAlignY=35&desc=记录生活，也记录时代的细碎&descAlignY=55&descSize=14&descColor=9090aa" />
 
+<br/>
+
 <!-- 打字机动画 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C6AFF&center=true&vCenter=true&width=500&lines=Backend+Developer;Full+Stack+Explorer;Open+Source+Enthusiast;Always+Learning" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=7C6AFF&center=true&vCenter=true&width=560&lines=后端开发+·+Backend+Developer;全栈探索+·+Full+Stack+Explorer;开源爱好者+·+Open+Source+Enthusiast;用代码写情书+·+Code+for+the+Future" alt="Typing" />
 
 <br/>
 
@@ -41,20 +43,70 @@
 
 <div align="center">
 
-<!-- 用 shields 展示实时数据，国内可加载 -->
+<!-- 访客计数器 · 国内可加载 -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SEYYl.SEYYl&left_color=0d1117&right_color=7C6AFF&left_text=👀%20访客" />
+<br/><br/>
+<!-- shields.io 实时数据 -->
 <img src="https://img.shields.io/github/followers/SEYYl?color=7C6AFF&label=👥%20关注者&style=flat-square&logo=github" />
 <br/><br/>
-<img src="https://img.shields.io/github/stars/SEYYl/Markdownify?color=FF6B6B&label=⭐%20Markdownify&style=flat-square&logo=github" />
+<img src="https://img.shields.io/github/stars/SEYYl?color=FF6B6B&label=⭐%20总获星&style=flat-square&logo=github" />
 <br/><br/>
-<img src="https://img.shields.io/github/stars/SEYYl/murmur?color=FF6B6B&label=⭐%20murmur&style=flat-square&logo=github" />
-<br/><br/>
-<img src="https://img.shields.io/github/stars/SEYYl/nanyu-card?color=FF6B6B&label=⭐%20nanyu-card&style=flat-square&logo=github" />
+<img src="https://img.shields.io/github/repos/SEYYl?color=44CC11&label=📦%20公开仓库&style=flat-square&logo=github" />
 
 </div>
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+---
+
+## 🐍 我的贡献
+
+<div align="center">
+
+<!-- 贡献贪吃蛇 · jsDelivr CDN 加速 · 随系统亮暗自动切换 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/SEYYl/SEYYl@output/github-contribution-grid-snake-dark.svg" />
+  <img alt="贡献贪吃蛇动画" src="https://cdn.jsdelivr.net/gh/SEYYl/SEYYl@output/github-contribution-grid-snake.svg" width="90%" />
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub 数据
+
+<div align="center">
+
+<!-- 统计卡片 · 与顶部横幅同域，若无法加载可删除本节 -->
+<img src="https://github-readme-stats.vercel.app/api?username=SEYYl&show_icons=true&title_color=7C6AFF&icon_color=FF6B6B&text_color=c9d1d9&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEYYl&layout=compact&title_color=7C6AFF&text_color=c9d1d9&bg_color=0d1117&hide_border=true&card_width=420" width="49%" />
+
+<br/><br/>
+
+<!-- shields.io 实时数据，国内可加载 -->
+<img src="https://img.shields.io/github/followers/SEYYl?color=7C6AFF&label=👥%20关注者&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/SEYYl?color=FF6B6B&label=⭐%20总获星&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/repos/SEYYl?color=44CC11&label=📦%20公开仓库&style=for-the-badge&logo=github" />
+
+</div>
+
+<br/>
+
+---
+
+## 🏆 奖杯墙
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEYYl&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" />
+
+</div>
 
 <br/>
 
@@ -113,29 +165,6 @@
 | [mao_nav](https://github.com/SEYYl/mao_nav) | 🧭 极简导航站 | `Vue` | 🔧 Fork |
 | [CloudFlare-ImgBed](https://github.com/SEYYl/CloudFlare-ImgBed) | ☁️ 基于 Cloudflare 的开源文件托管方案 | `JavaScript` | 🔧 Fork |
 | [boringbay](https://github.com/SEYYl/boringbay) | 🥱 无聊湾 | `Rust` | 🔧 Fork |
-
-</div>
-
-<br/>
-
----
-
-## 📊 数据
-
-<div align="center">
-
-<!-- shields.io 实时数据，国内可加载 -->
-<img src="https://img.shields.io/github/followers/SEYYl?color=7C6AFF&label=👥%20关注者&style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/stars/SEYYl?color=FF6B6B&label=⭐%20总获星&style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/repos/SEYYl?color=44CC11&label=📦%20公开仓库&style=for-the-badge&logo=github" />
-
-<br/><br/>
-
-<!-- 主要项目星星数 -->
-<img src="https://img.shields.io/github/stars/SEYYl/Markdownify?color=7C6AFF&label=Markdownify&style=flat-square&logo=github" />
-<img src="https://img.shields.io/github/stars/SEYYl/murmur?color=7C6AFF&label=murmur&style=flat-square&logo=github" />
-<img src="https://img.shields.io/github/stars/SEYYl/nanyu-card?color=7C6AFF&label=nanyu-card&style=flat-square&logo=github" />
-<img src="https://img.shields.io/github/stars/SEYYl/astro-homepage?color=7C6AFF&label=astro-homepage&style=flat-square&logo=github" />
 
 </div>
 
