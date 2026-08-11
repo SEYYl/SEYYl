@@ -83,9 +83,9 @@
 
 <div align="center">
 
-<!-- 自建统计卡片 · 仓库内托管（不经过 camo 代理）· 每 6 小时自动更新 -->
-<img src=".github/stats/stats-card.svg" width="49%" />
-<img src=".github/stats/top-langs.svg" width="49%" />
+<!-- 自建统计卡片 · jsDelivr CDN 加速 · 每 6 小时自动更新 · ?v=1 强制 camo 重新缓存 -->
+<img src="https://cdn.jsdelivr.net/gh/SEYYl/SEYYl@main/.github/stats/stats-card.svg?v=1" width="49%" />
+<img src="https://cdn.jsdelivr.net/gh/SEYYl/SEYYl@main/.github/stats/top-langs.svg?v=1" width="49%" />
 
 <br/><br/>
 
@@ -104,8 +104,8 @@
 
 <div align="center">
 
-<!-- 自建里程碑卡片 · 仓库内托管（不经过 camo 代理）· 随数据增长自动前进 -->
-<img src=".github/stats/achievements.svg" width="90%" />
+<!-- 自建里程碑卡片 · jsDelivr CDN 加速 · 随数据增长自动前进 -->
+<img src="https://cdn.jsdelivr.net/gh/SEYYl/SEYYl@main/.github/stats/achievements.svg?v=1" width="90%" />
 
 </div>
 
