@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="440" height="200" viewBox="0 0 440 200">
 <rect x="0.5" y="0.5" width="439" height="199" rx="14" fill="#0d1117" stroke="#21262d"/>
 <text x="24" y="34" font-family="'Segoe UI',sans-serif" font-size="16" font-weight="700" fill="#7C6AFF">📊 GitHub 数据</text>
-<text x="416" y="32" font-family="'Segoe UI',sans-serif" font-size="11" fill="#8b949e" text-anchor="end">实时统计 · 2026-08-29 16:42</text><rect x="24" y="56" width="192" height="56" rx="10" fill="#161b22"/>
+<text x="416" y="32" font-family="'Segoe UI',sans-serif" font-size="11" fill="#8b949e" text-anchor="end">实时统计 · 2026-08-29 20:54</text><rect x="24" y="56" width="192" height="56" rx="10" fill="#161b22"/>
 <text x="38" y="80" font-family="'Segoe UI',sans-serif" font-size="12" fill="#8b949e">👥 关注者</text>
 <text x="38" y="103" font-family="'Segoe UI',sans-serif" font-size="22" font-weight="700" fill="#7C6AFF">0</text><rect x="232" y="56" width="192" height="56" rx="10" fill="#161b22"/>
 <text x="246" y="80" font-family="'Segoe UI',sans-serif" font-size="12" fill="#8b949e">⭐ 总获星</text>
